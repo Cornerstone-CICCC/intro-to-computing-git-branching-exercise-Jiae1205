@@ -1,1 +1,3 @@
 This file contains information about the project.
+
+Make changes to ABOUT.txt in this new branch and git add and commit the changes.
